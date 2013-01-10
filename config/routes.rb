@@ -1,4 +1,4 @@
-DemoApp::Application.routes.draw do
+ DemoApp::Application.routes.draw do
   resources :microposts
 
 
